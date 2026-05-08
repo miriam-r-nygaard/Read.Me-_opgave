@@ -44,6 +44,7 @@ først laver jeg en lille smule HTML
 <body>
 <h1>Mine katte</h1>
 <p id="demo"></p>
+<script src="javascript/javascript.js"></script>
 </body>
 </html>
 ```
